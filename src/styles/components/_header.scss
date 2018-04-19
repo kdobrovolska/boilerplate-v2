@@ -1,0 +1,35 @@
+.header{
+  background: $dark-blue;
+ // margin-bottom:0;
+}
+
+.header__contant{
+    align-items:center;
+    display: flex;
+    justify-content: space-between;
+    padding : $s-size 0;
+}
+
+.header__title{
+    color:white;
+    text-decoration:none;
+    h1{
+        margin:0;
+    }
+
+}
+.header__button{
+    background :none;
+    border:none;
+    outline:none;
+    color:white;
+}
+.header__button:hover{
+    text-decoration:underline;
+}
+.header__button:active{
+    border:none;
+ }
+.header__button:after{
+    border:none;
+}
