@@ -5,7 +5,7 @@ git log
 git status 
 git commit -am "message' (together add and commit -only if there are no new files , only modified)
 
-/////////// (GitHub password => Lika1987)
+/////////// (GitHub password )
 copy local repository to remote:
 1) git remote add origin  git"github.com/kdobrovolska/react-course-2-expensify-app.git
 2)git push -u origin master  (only first time)
