@@ -13,7 +13,7 @@ copy local repository to remote:
 git remote  - look to GitHub
 git push  - send changes to GitHub
 
-//heroku (heroku password => Lika1987!!)
+//heroku (heroku password )
 1)heroku login 
 2)git push heroku master    (send data to heroku)
 3)heroku logs     -log file of heroku
